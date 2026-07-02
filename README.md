@@ -9,7 +9,7 @@
 
 # 🚗 Car Make Information App (APK)
 
-An Android APK app that uses your **camera** + **Teachable Machine model** to identify the **car make/model** (like **Baleno**, **Fronx**, etc.), then shows detailed specs from a connected Airtable dataset.
+An Android APK app made using Thunkable that uses your **camera** + **Teachable Machine model** to identify the **car make/model** (like **Baleno**, **Fronx**, etc.), then shows detailed specs from a connected Airtable dataset.
 
 ---
 
@@ -42,6 +42,8 @@ Car list and details are managed through Airtable.
 - Airtable link:  
   https://airtable.com/invite/l?inviteId=invoT4bdQ2R6YKgpt&inviteToken=ae1af977a557d699962ed77a87bc4cfced312de1531903c0639a47719f284b60&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
+- Thunkable link:  
+  https://x.thunkable.com/copy/6bb0e17f118a2ca552a551241e7ef190
 ---
 
 ## ⚠️ Current Limitation
