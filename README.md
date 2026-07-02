@@ -11,6 +11,8 @@
 
 An Android APK app made using Thunkable that uses your **camera** + **Teachable Machine model** to identify the **car make/model** (like **Baleno**, **Fronx**, etc.), then shows detailed specs from a connected Airtable dataset.
 
+MediaFire Download Link : https://www.mediafire.com/file/bzi8wnltlzlsgsw/Car+Make+Finder-v1-release.apk/file
+
 ---
 
 ## ✨ Features
