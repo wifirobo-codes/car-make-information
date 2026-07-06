@@ -1,7 +1,4 @@
-# 🚨🚨🚨 **WARNING: APK EXPIRES AT 04-07-2026 11:30 PM IST** 🚨🚨🚨
-
 <p align="center">
-  <img alt="warning" src="https://img.shields.io/badge/APK%20Expiry-04--07--2026%2011%3A30%20PM%20IST-red?style=for-the-badge">
   <img alt="status" src="https://img.shields.io/badge/Support-Maruti%20Suzuki%20Only-orange?style=for-the-badge">
 </p>
 
